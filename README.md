@@ -13,6 +13,7 @@ Maker Media GmbH
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/25](https://www.heise.de/select/make/2019/5/1571592996373573). Hier findet ihr alle notwendigen Dateien: Die 3D-Druckvorlagen für das Gehäuse, die Stangen-Halterungen sowie den zugehörigen Sketch.
 
 Bei dem ESP D1 Mini sind die Pins so belegt: <br>
+<br>
 GPIO  5 (D1) : DHT22 Sensor 1 (Innerhalb des Schrankes)<br>
 GPIO  4 (D2) : DHT22 Sensor 2 (Außerhalb des Schrankes)<br>
 GPIO 14 (D5) : Switch<br>
