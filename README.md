@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Filamentschrank
 
 ### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
 
