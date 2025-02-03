@@ -10,7 +10,7 @@ Maker Media GmbH
 
 ![Picture](https://github.com/MakeMagazinDE/Filamentschrank/blob/master/Von%20vorne%20beleuchtet_niwe.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/25](https://www.heise.de/select/make/2019/5/1571592996373573). Hier findet ihr alle notwendigen Dateien: Die 3D-Druckvorlagen für das Gehäuse, die Stangen-Halterungen sowie den zugehörigen Sketch.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/25](https://www.heise.de/select/make/2025/1/2433910294827262735). Hier findet ihr alle notwendigen Dateien: Die 3D-Druckvorlagen für das Gehäuse, die Stangen-Halterungen sowie den zugehörigen Sketch.
 
 Bei dem ESP D1 Mini sind die Pins so belegt: <br>
 <br>
