@@ -12,7 +12,14 @@ Maker Media GmbH
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/25](https://www.heise.de/select/make/2025/1/2433910294827262735). Hier findet ihr alle notwendigen Dateien: Die 3D-Druckvorlagen für das Gehäuse, die Stangen-Halterungen sowie den zugehörigen Sketch.
 
-Bei dem ESP D1 Mini sind die Pins so belegt: <br>
+Im Make Ikea-Sonderheft 6/25 haben wir in dem Artikel "Filamentschrank besser gemacht" mehrere Verbesserungen von Leser, die den Filamentschrank nachgebaut haben, vorgestellt.
+
+- Neuer Code mit unter anderem MQTT- und WLAN-Einbindung von Martin Weil (ESP32_Filamentschrank_Martin_Weil.ino)
+- 
+
+
+
+Bei dem ESP D1 Mini (für die Ursprungliche Version des Schrankes) sind die Pins so belegt: <br>
 <br>
 GPIO  5 (D1) : DHT22 Sensor 1 (Innerhalb des Schrankes)<br>
 GPIO  4 (D2) : DHT22 Sensor 2 (Außerhalb des Schrankes)<br>
