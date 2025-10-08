@@ -15,9 +15,7 @@ Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2
 Im Make Ikea-Sonderheft 6/25 haben wir in dem Artikel "Filamentschrank besser gemacht" mehrere Verbesserungen von Leser, die den Filamentschrank nachgebaut haben, vorgestellt.
 
 - Neuer Code mit unter anderem MQTT- und WLAN-Einbindung von Martin Weil (ESP32_Filamentschrank_Martin_Weil.ino)
-- 
-
-
+- Halterung für den Magnettürschnapper (STL-Datei) 
 
 Bei dem ESP D1 Mini (für die Ursprungliche Version des Schrankes) sind die Pins so belegt: <br>
 <br>
